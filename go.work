@@ -1,0 +1,14 @@
+go 1.20
+
+use(
+    ../bluebell
+    ./controllers
+    ./dao
+    ./models
+    ./routes
+    ./logger
+    ./logic
+    ./midware
+    ./pkg
+    ./settings
+    )
